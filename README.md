@@ -61,11 +61,11 @@ Developed by:Vimala Rani A RegisterNumber:212223040240
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 ![exp5 op](https://github.com/user-attachments/assets/7c3c22ad-6bad-4577-a1a0-d87d67682ad3)
 
-**RESULTS**
-```
+**RESULTS:**
+
 Implementing Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables executed succesfully.
 
-```
+
 
 
 
