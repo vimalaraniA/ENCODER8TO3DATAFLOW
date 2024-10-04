@@ -51,10 +51,8 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 
-```
 Developed by:Vimala Rani A RegisterNumber:212223040240
 ![exp5 code](https://github.com/user-attachments/assets/629eb5b9-3382-40db-884f-95dfae17239e)
-```
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
